@@ -1,6 +1,6 @@
 require 'label_maker'
 
-RSpec.describe LabelMaker, '#get_equivalent_sequence' do
+RSpec.describe LabelMaker, '::get_equivalent_sequence' do
   context 'with a non-integer input' do
     it 'returns nil' do
       result = LabelMaker.get_equivalent_sequence('abc')
