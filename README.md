@@ -1,5 +1,7 @@
 # mock-challenge
 
+Just a simple challenge to practice coding logic
+
 ## Getting started
 
 To get started, clone the repo and access the created directory:
